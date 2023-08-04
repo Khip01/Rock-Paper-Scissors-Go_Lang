@@ -1,6 +1,3 @@
-
-Game/Permainan
-
 # Rock-Paper-Scissors-Go_Lang
 <img alt="Static Badge" src="https://img.shields.io/badge/Type-Game%2FPermainan-violet">
 
